@@ -1,0 +1,55 @@
+/* ============UNIVERSAL ===========*/
+html {
+  font-size: 18px;
+  line-height: 1.4rem;
+  font-family: Helvetica;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+body {
+  margin: 0;
+}
+/* ============HEADER===========*/
+header {
+  background-image: url('../images/glasses-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 30rem;
+}
+
+.head {
+  width: 960px;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: cadetblue;
+  justify-content: space-between;
+}
+/* ============LOGO===========*/
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  padding-left: 2rem;
+  padding-right: 1rem;
+  height: 1.5rem;
+}
+.logo p {
+  display: inline-block;
+  font-size: 1rem;
+}
+/* ============NAV===========*/
+nav ul {
+  display: flex;
+  align-items: center;
+  flow-flex: row;
+}
+.navigation li {
+  padding: 1rem 2rem;
+}
+/* ============BANNER===========*/
