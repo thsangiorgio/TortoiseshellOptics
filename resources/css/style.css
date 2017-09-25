@@ -90,10 +90,7 @@ nav ul {
 .truck img {
   width: 5rem;
 }
-.description {
-  font-size: 18px;
-  font-family: Helvetica;
-}
+
 /* ============INFO===========*/
 .info {
   display: flex;
@@ -105,8 +102,6 @@ nav ul {
   width: 35%;
   display: flex;
   flex-flow: column;
-
-
 }
 .business-info h3 {
   background-color: cadetblue;
@@ -116,9 +111,4 @@ nav ul {
   font-weight: bold;
   font-size: 1rem;
   margin-bottom: 1rem;
-}
-.business-info p {
-  line-height: 1.4;
-  font-size: 18px;
-  font-family: Helvetica;
 }
