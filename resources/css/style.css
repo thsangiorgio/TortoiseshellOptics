@@ -206,4 +206,12 @@ nav ul {
   font-size: 0.77rem;
   padding: 1rem 1rem 4rem 1rem;
 }
+.footer h4 {
+  display: none;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 }
