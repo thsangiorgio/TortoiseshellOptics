@@ -47,9 +47,19 @@ body {
 nav ul {
   display: flex;
   align-items: center;
-  flow-flex: row;
+  /*flow-flex: row;*/
 }
 .navigation li {
   padding: 1rem 2rem;
 }
-/* ============BANNER===========*/
+/* ============BANNER-HEADLINE===========*/
+
+.headline {
+  background-color: white;
+  padding: 1.5rem 5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-top: 10rem;
+  margin-right: -2rem;
+}
