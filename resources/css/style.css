@@ -12,17 +12,17 @@ body {
   margin: 0;
 }
 /* ============HEADER===========*/
-header {
+.header {
   background-image: url('../images/glasses-bg.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 30rem;
+  padding-top: 1rem;
 }
 
 .head {
   width: 960px;
-  margin-top: 1rem;
   display: flex;
   align-items: center;
   color: white;
